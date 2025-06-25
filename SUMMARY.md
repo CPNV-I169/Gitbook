@@ -2,8 +2,6 @@
 
 * [Kickoff](README.md)
 * [Roadmap](roadmap.md)
-* [Backlog](backlog/README.md)
-  * [Semaine 6](backlog/semaine-6.md)
 * [Théorie et Concepts](theorie-et-concepts/README.md)
   * [Architecture](theorie-et-concepts/architecture/README.md)
     * [Docker - les bases](theorie-et-concepts/architecture/docker-les-bases/README.md)
