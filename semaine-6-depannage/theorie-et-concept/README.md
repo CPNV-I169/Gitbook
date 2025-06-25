@@ -1,2 +1,0 @@
-# Théorie et concept
-
