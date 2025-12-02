@@ -1,6 +1,10 @@
 # Docker et la sécurité
 
-La virtualisation avec Docker apporte de nombreux avantages en termes de déploiement et de gestion d'applications, mais elle introduit également des préoccupations spécifiques en matière de sécurité. Voici quelques points clés à considérer :
+## Introduction
+
+La virtualisation avec Docker apporte de nombreux avantages en termes de déploiement et de gestion d'applications, mais elle introduit également des préoccupations spécifiques en matière de sécurité.&#x20;
+
+Voici quelques points clés à considérer :
 
 ## **Isolation des Conteneurs**
 
@@ -60,6 +64,8 @@ La virtualisation avec Docker apporte de nombreux avantages en termes de déploi
 
 
 
-{% hint style="info" %}
+## Conclusion
+
+{% hint style="warning" %}
 En résumé, bien que Docker fournisse des mécanismes pour la sécurité, il est crucial de bien comprendre les limites de ces mécanismes et de mettre en place des stratégies de sécurité supplémentaires pour protéger les systèmes utilisant Docker.
 {% endhint %}
