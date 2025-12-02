@@ -28,9 +28,9 @@ Les différences majeures entre la virtualisation basée sur des machines virtue
 
 Observations:
 
-* L'hyperviseur intègre son propre système d'exploitation alors que l'"container engine" partage les propriétés de virtualisation offertes par l'OS (linux).
+* L'hyperviseur intègre son propre système d'exploitation alors que le "container engine" partage les propriétés de virtualisation offertes par l'OS (linux).
 
-{% hint style="info" %}
-Avec les conteneurs, sommes-nous en présence d'une architecture qui ressemble plus a un hyperviseur de type I ou II ?
+{% hint style="warning" %}
+Avec Docker, sommes-nous en présence d'une architecture qui ressemble plus a un hyperviseur de type I ou II ?
 {% endhint %}
 
